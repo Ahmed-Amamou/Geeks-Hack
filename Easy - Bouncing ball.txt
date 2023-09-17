@@ -1,24 +1,25 @@
-You are given a rectangular box with dimensions: length l and height h. Inside this box, there is a ball initially located at coordinates (x, y), and it is launched with an initial velocity vector (vx, vy).
+#Bouncing Ball(easy)
 
-The ball obeys the laws of physics and bounces off the walls of the box according to the following rules:
+In the quirky town of Geometria, they loved bouncing balls so much that they turned it into a sport! For this year's "Bouncing Ball Bonanza," they've got a magical bouncing ball inside a box that follows the laws of geometry, performing mind-boggling bounces.
 
-When the ball hits a vertical wall of the box, it reflects its horizontal velocity, i.e., it reverses its vx component.
-When the ball hits a horizontal wall of the box, it reflects its vertical velocity, i.e., it reverses its vy component.
-You are also given a positive integer K, representing the number of times the ball will bounce off the walls. Your task is to determine the final position of the ball after K bounces.
+Professor Polygon, the town's math enthusiast, needs your help. He's tangled up in geometry knots and can't calculate where the magical ball will end up after a set number of bounces. It's time for you, the programming geek, to unveil the secrets of this bouncing ball.
 
-Write a function or program that takes the following inputs:
+You are given a rectangular box. Inside this box, there is a ball initially located at coordinates (x, y),
+and it is launched with an initial velocity vector (vx, vy).
 
-l: The length of the box.
-h: The height of the box.
-(x, y): The initial coordinates of the ball.
-(vx, vy): The initial velocity vector of the ball.
-K: The number of bounces.
-Your function or program should return the final coordinates (x_final, y_final) of the ball after K bounces.
+*The ball obeys the laws of physics and bounces off the walls of the box according to the following rules:
+
+1-When the ball hits a vertical wall of the box, it reflects its horizontal velocity, i.e., it reverses its vx component.
+2-When the ball hits a horizontal wall of the box, it reflects its vertical velocity, i.e., it reverses its vy component.
+
+You are also given a positive integer K, representing the number of times the ball will bounce off the walls.
+Your task is to determine the final position of the ball after K bounces!
 
 Input:
+The first line of the input contains an integer t (1≤t≤100) — the number of test cases.
 
-The input consists of five integers: l, h, x, y, K (1 ≤ l, h, x, y, K ≤ 1000).
-The input is such that the ball always starts inside the box.
+for each test case line of input consists of five integers : l, h, x, y, vx, vy, K (1 ≤ l, h, x, y, K ≤ 1000). (seperated by spaces)
+The input is such that the ball always starts inside the box(or on one of the edges).
+
 Output:
-
-Output the final coordinates (x_final, y_final) of the ball after K bounces, each separated by a space.
+For each test case print the final coordinates (x_final, y_final) of the ball after K bounces, each separated by a space.
