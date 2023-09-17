@@ -1,0 +1,24 @@
+You are given a rectangular box with dimensions: length l and height h. Inside this box, there is a ball initially located at coordinates (x, y), and it is launched with an initial velocity vector (vx, vy).
+
+The ball obeys the laws of physics and bounces off the walls of the box according to the following rules:
+
+When the ball hits a vertical wall of the box, it reflects its horizontal velocity, i.e., it reverses its vx component.
+When the ball hits a horizontal wall of the box, it reflects its vertical velocity, i.e., it reverses its vy component.
+You are also given a positive integer K, representing the number of times the ball will bounce off the walls. Your task is to determine the final position of the ball after K bounces.
+
+Write a function or program that takes the following inputs:
+
+l: The length of the box.
+h: The height of the box.
+(x, y): The initial coordinates of the ball.
+(vx, vy): The initial velocity vector of the ball.
+K: The number of bounces.
+Your function or program should return the final coordinates (x_final, y_final) of the ball after K bounces.
+
+Input:
+
+The input consists of five integers: l, h, x, y, K (1 ≤ l, h, x, y, K ≤ 1000).
+The input is such that the ball always starts inside the box.
+Output:
+
+Output the final coordinates (x_final, y_final) of the ball after K bounces, each separated by a space.
