@@ -1,0 +1,25 @@
+Imagine you have a string, let's call it "S," composed entirely of lowercase English letters. 
+Your task is to transform this string into a palindrome, 
+but there's a catch - you can only make swaps between adjacent characters.
+
+Can you determine whether it's possible to turn "S" into a palindrome using this swapping operation?
+And if it's indeed possible, 
+what's the minimum number of swaps needed to achieve this transformation?
+
+Constraints:
+1≤∣S∣≤2×10²
+
+Example1:
+
+input: aab
+output: 1
+
+Example2:
+
+input: astya
+output: -1 (or impossible)
+
+tests:
+12 (to be made)
+
+
