@@ -9,6 +9,12 @@ what's the minimum number of swaps needed to achieve this transformation?
 Constraints:
 1≤∣S∣≤2×10²
 
+Input: 
+The only line contains string s consisting of only lowercase Latin letters
+
+Output:
+if it's impossible to turn S into a palindrome print -1, else print the minimum number of operations to do so.
+
 Example1:
 
 input: aab
