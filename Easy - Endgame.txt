@@ -1,0 +1,22 @@
+In the final stages of a chess game, the battlefield has cleared, and only three valiant pieces remain: 
+a black rook, a black king, and a lone white king. 
+The outcome of the game hinges on whether the white king is under attack from the black rook. 
+It's time to determine the fate of the battle!
+
+In the standard chess notation, the columns are labeled 'a' to 'h', and the rows are numbered from 1 to 8. 
+The positions of the three pieces are denoted as follows:
+
+The black rook's position is given by 'Rc', where 'R' represents the rook and 'c' is a valid square (e.g., 'Rd5' signifies the rook is at square d5).
+The black king's position is given by 'Kc', where 'K' represents the king and 'c' is a valid square (e.g., 'Kf3' signifies the king is at square f3).
+The white king's position is given by 'Wc', where 'W' represents the white king and 'c' is a valid square (e.g., 'Wa7' signifies the white king is at square a7).
+Your task is to determine whether the white king is under attack by the black rook. Specifically, you need to check if the rook can capture the white king on its next move. If the white king is under attack, output "YES"; otherwise, output "NO."
+
+Input:
+
+The input consists of three lines, each containing a string.
+The first line contains the position of the black rook ('Rc').
+The second line contains the position of the black king ('Kc').
+The third line contains the position of the white king ('Wc').
+Output:
+
+Output "YES" if the white king is under attack by the black rook on its next move. Output "NO" otherwise.
