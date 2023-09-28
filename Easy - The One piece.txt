@@ -1,0 +1,38 @@
+Ceaser Cipher problem !
+
+In the grand world of One Piece, where pirates chase dreams and treasures, 
+Luffy comes across a mysterious encoded message that hints at the legendary One Piece treasure's location.
+This message is encrypted using a code known only to the boldest of pirates.
+
+Here's how the cipher works: Each letter in the original message is shifted 
+a specific number of positions forward in the alphabet, wrapping around if necessary. 
+Can you solve this Luffy? said the ***
+
+Your mission is to write a program that, depending on the input, 
+can either decode the message or encode it further using this enigmatic cipher.
+As Luffy's trusted ally, you are the one who can assist him in cracking this code.
+
+Input:
+
+The first line contains an integer "N" (1 ≤ N ≤ 100), indicating the number of operations.
+The following "N" lines each contain an operation in the form of a single character 
+('E' for encoding or 'D' for decoding) followed by a space and a message to be encoded or decoded. 
+The message consists of lowercase English letters only and has a length between 1 and 100.
+Output:
+
+For each decoding operation ('D'), output the decoded message.
+For each encoding operation ('E'), output the encoded message.
+
+Example:
+
+Input:
+3
+E fnqjwx
+D lqwuhw
+E mvzv
+
+output:
+
+iqnqza
+orange
+ryzb
