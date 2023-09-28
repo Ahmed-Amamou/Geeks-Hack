@@ -1,0 +1,25 @@
+Sami is eager to embark on a leisurely walk through the vibrant streets of Tunis, the capital city. 
+However, he's well aware that lurking amidst the urban beauty are certain areas known for their bad neighborhoods. 
+Sami is determined to avoid these areas at all costs to ensure a safe and peaceful stroll.
+
+Imagine the city as a grid, with dimensions represented by W for width and H for height. 
+Sami's stamina is represented by K, indicating the number of steps he can take before exhaustion sets in. 
+Each square within this grid is identified by its coordinates (i, j), where i signifies the row from the north, and j signifies the column from the west. 
+Some of these squares are tainted by the presence of bad neighborhoods, while others remain untouched. 
+A square (i, j) is deemed to have a bad neighborhood if it is marked as 'X', and it is considered safe if marked as '.' (period).
+
+In a single stride, Sami can move from 1 to K squares (inclusive) in any of the four cardinal directions: north, east, south, or west. 
+However, his path must never cross through squares with bad neighborhoods, and he must always remain within the city's boundaries.
+
+Your mission is to determine the minimum number of strides Sami must take to journey from square (x1, y1) to square (x2, y2), 
+all while skillfully avoiding the bad neighborhoods.
+
+Input:
+
+The first line contains three integers: W, H, and K (1 ≤ W, H ≤ 1000, 1 ≤ K ≤ 1000) — representing the city's width, height, and Sami's stamina.
+The subsequent H lines each contain W characters, representing the city grid. 
+The final line contains four integers: x1, y1, x2, and y2 (1 ≤ x1, x2 ≤ H, 1 ≤ y1, y2 ≤ W) — signifying the starting and ending positions.
+Output:
+
+Print the minimum number of strides Sami must take to reach square (x2, y2) from square (x1, y1), all while avoiding bad neighborhoods. 
+If reaching the destination is impossible, print -1.
