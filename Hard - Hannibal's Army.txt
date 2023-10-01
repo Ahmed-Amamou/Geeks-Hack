@@ -1,0 +1,25 @@
+In the midst of an epic battle between Hannibal's Carthaginian army and the formidable Roman legions, the fate of empires hangs in the balance. 
+To assess the might of his army, Hannibal has devised a unique method that involves evaluating the strength of his clans.
+
+Hannibal commands an army consisting of n soldiers, each possessing a distinct level of strength. 
+The strength of the i-th soldier is represented by the integer ai. 
+Hannibal's soldiers form clans based on their strengths, and the commander calculates the power of these clans to determine his army's overall strength.
+
+For some k he calls i1, i2, ..., ik a clan if i1 < i2 < i3 < ... < ik and gcd(ai1, ai2, ..., aik) > 1. 
+The strength of a clan is determined by k·gcd(ai1, ai2, ..., aik)
+
+Hannibal seeks your assistance in determining the total strength of his Carthaginian army. As the outcome of this war hinges on this calculation, 
+he commands you to find the sum of strengths for all possible clans.
+
+Your task is to help Hannibal by calculating the total strength of his army. Since the number may be quite large, 
+you must print it modulo 1000000007 (10^9 + 7).
+
+Input:
+
+The first line contains an integer n (1 ≤ n ≤ 200000) — representing the number of soldiers in Hannibal's army.
+
+The second line contains n integers a1, a2, ..., an (1 ≤ ai ≤ 1000000) — denoting the strengths of each soldier.
+
+Output:
+
+Print a single integer — the total strength of Hannibal's Carthaginian army, modulo 1000000007 (10^9 + 7).
