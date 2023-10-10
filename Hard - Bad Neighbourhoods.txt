@@ -1,4 +1,4 @@
-Sami is eager to embark on a leisurely walk through the vibrant streets of Tunis, the capital city. 
+Sami is eager to embark on a walk through the vibrant streets of Tunis, the capital city. 
 However, he's well aware that lurking amidst the urban beauty are certain areas known for their bad neighborhoods. 
 Sami is determined to avoid these areas at all costs to ensure a safe and peaceful stroll.
 
@@ -19,6 +19,7 @@ Input:
 The first line contains three integers: W, H, and K (1 ≤ W, H ≤ 1000, 1 ≤ K ≤ 1000) — representing the city's width, height, and Sami's stamina.
 The subsequent H lines each contain W characters, representing the city grid. 
 The final line contains four integers: x1, y1, x2, and y2 (1 ≤ x1, x2 ≤ H, 1 ≤ y1, y2 ≤ W) — signifying the starting and ending positions.
+
 Output:
 
 Print the minimum number of strides Sami must take to reach square (x2, y2) from square (x1, y1), all while avoiding bad neighborhoods. 
