@@ -1,0 +1,26 @@
+Algebra! Remember algebra? There is a theory that as engineers progresses further and further in
+their studies, they lose basic math skills. This problem is designed to help you remember those basic
+algebra skills, make the world a better place, etc., etc.
+
+Input:
+Your program should accept an even number of lines of text. Each pair of lines will represent one
+problem. The first line will contain a list of integers {c0, c1, . . . , cn} which represent a set of coefficients
+to a polynomial expression. The order of the polynomial is n. The coefficients should be paired with
+the terms of the polynomial in the following manner:
+c0xn + c1xn−1 + · · · + cnx0   
+The second line of text represents a sequence of values for x, {x0, x1, . . . , xm}.
+
+Output:
+For each pair of lines, your program should evaluate the polynomial for all the values of x (x0 through
+xm) and output the resulting values on a single line.
+
+examples:
+Input:
+-2
+5 0 1 6
+1 -1
+7 6 -1
+ 
+Output:
+-2 -2 -2 -2
+6 5 -2
