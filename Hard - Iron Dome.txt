@@ -1,0 +1,56 @@
+In the midst of a historic struggle for independence, a group of infiltrators is determined to weaken the formidable Colonist's Iron Dome defense system. 
+They have managed to obtain vital information about the Iron Dome's missile silos, 
+and their mission is to infiltrate the defense system to disable it.
+
+According to the documents in their possession, the Iron Dome's missile silos are strategically located at a specific distance 'l' from the capital city. 
+The capital city is denoted as city number 's.' 
+Each missile silo is carefully positioned so that the shortest distance from the capital to the silo, 
+using the country's road network, equals exactly 'l.'
+
+The infiltrators are focused on uncovering the number of missile silos in the Colonist's territory to aid in their mission to infiltrate the Iron Dome.
+
+Input:
+
+The first line contains three integers: n, m, and s (2 ≤ n ≤ 105, 1 ≤ s ≤ n) — representing the number of cities, the number of roads in the country, and the number of the capital city, respectively. The capital city is city number 's.'
+
+The following 'm' lines describe the roads in the Colonist's territory. Each road is represented by three integers: vi, ui, wi (1 ≤ vi, ui ≤ n, vi ≠ ui, 1 ≤ wi ≤ 1000), where vi and ui are city numbers connected by the road, and wi is the length of the road.
+
+The last input line contains an integer 'l' (0 ≤ l ≤ 109) — representing the distance from the capital to the missile silos.
+
+It is guaranteed that:
+
+Only one road exists between any two cities.
+All roads connect different cities.
+There is a path from any city to any other city in the Colonist's territory using the road network.
+
+Output:
+
+Print a single integer — the number of Iron Dome missile silos located in the Colonist's territory.
+
+EXAMPLES:
+1/
+input:
+4 6 1
+1 2 1
+1 3 3
+2 3 1
+2 4 1
+3 4 1
+1 4 2
+2
+output:
+3
+
+2/
+input:
+5 6 3
+3 1 1
+3 2 1
+3 4 1
+3 5 1
+1 2 6
+4 5 8
+4
+
+output:
+3
