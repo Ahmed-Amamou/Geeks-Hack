@@ -1,0 +1,12 @@
+problem where , you're given a matrix of ones and zeros, you have q operations to make ,
+operation:
+- shiftRow
+or
+- ShiftCol 
+
+expected output : most maximum number of squares. 
+a square in a matrix is 4 ones that form a square basically,
+
+
+
+--problem to be continued
