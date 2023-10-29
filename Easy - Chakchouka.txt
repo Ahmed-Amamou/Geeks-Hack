@@ -1,0 +1,14 @@
+Chakckouka Problem ! 
+Ahmed is a fan of a traditional dish called "Chakchouka," and he has a peculiar way of identifying it in a string. 
+According to his definition, a string is considered delicious if it starts with "chak" and ends with "chouka".
+Additionally, two substrings are considered different if they appear at different positions in the text.
+
+Given a string 's,' your task is to count and print the number of delicious substrings in the given string.
+
+Input:
+
+The input consists of a single string 's' (1 ≤ |s| ≤ 1000) — the string in which you need to find 
+delicious substrings.
+Output:
+
+Print exactly one integer — the number of delicious substrings in the given string.
