@@ -1,0 +1,37 @@
+Bachka and Ashref are engaged in an intriguing card game. On the table, there are 'n' stack of cards, each stack containing positive integers on the cards.
+
+The game unfolds with Bachka taking the first turn, followed by Ashref. In each turn, Bachka selects a card from the top of any non-empty stack, 
+while Ashref takes a card from the bottom of any non-empty stack. The goal for both players is to maximize the total sum of the cards they acquire during the game. 
+The game continues until all the piles become empty.
+
+Assuming Bachka and Ashref play smart and optimally, your task is to determine the final score of the game.
+
+Input:
+
+The first line contains an integer 'n' (1 ≤ n ≤ 100) — representing the number of card piles on the table.
+
+Each of the following 'n' lines provides a description of a pile: the first integer 's_i' is the number of cards in the 'i-th' pile (1 ≤ s_i ≤ 100), 
+followed by 's_i' positive integers 'c_1, c_2, ..., c_k, ..., c_si' (1 ≤ c_k ≤ 1000) — representing the sequence of numbers on the cards from the top of the pile to the bottom.
+
+Output:
+
+Print two integers: the sum of Bachka's cards and the sum of Ashref's cards if they both play optimally.
+
+example1:
+
+input:
+2
+1 100
+2 1 10
+
+output:
+101 10
+
+example 2:
+
+input:
+1
+9 2 8 6 5 9 4 7 1 3
+
+output:
+30 15
