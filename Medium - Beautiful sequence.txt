@@ -20,14 +20,14 @@ Print one integer, representing the complexity of the sequence.
 
 example1:
 input:
-5 
+5
 2 7 2 7 2
 output:
 2
 
 example2:
 input:
-6 
+6
 6 6 3 3 4 4
 output:
 0
