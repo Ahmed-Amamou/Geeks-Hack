@@ -1,0 +1,37 @@
+A sequence of integers is considered beautiful if its elements are arranged in blocks, as exemplified by [2,2,2,4,1,1]. 
+More formally, if two elements are equal, all elements in between them must also be equal.
+
+The complexity of a sequence is defined as the minimum number of elements that need to be changed to transform it into a charming sequence. 
+However, changing an element's value from a to b requires changing all other elements with the value a to b as well. 
+
+You are given a sequence of integers a_1, a_2, ..., a_n. The updates are not independent, and the changes persist for the future.
+
+Print the complexity of the initial sequence and the sequence after each update.
+
+Input:
+
+The first line contains integers n (1 ≤ n ≤ 200000), representing the length of the sequence.
+
+The second line contains n integers a_1, a_2, ..., a_n (1 ≤ ai ≤ 200000), representing the initial sequence.
+
+Output:
+
+Print one integer, representing the complexity of the sequence.
+
+example1:
+input:
+5 
+2 7 2 7 2
+output:
+2
+
+example2:
+input:
+6 
+6 6 3 3 4 4
+output:
+0
+
+
+note: Changing the first occurrence of 3 to 5 and the second occurrence of 3 to 2 in [5,5,3,5,2,3,2] is not allowed. 
+You must either leave the 3's untouched or change them all to the same value.
