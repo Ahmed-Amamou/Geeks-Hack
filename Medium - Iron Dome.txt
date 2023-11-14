@@ -3,9 +3,9 @@ They have managed to obtain vital information about the Iron Dome's missile shoo
 and their mission is to infiltrate the defense system to disable it.
 
 According to the documents in their possession, the Iron Dome's missile shooters are strategically located at a specific distance 'l' from the capital city. 
-The capital city is denoted as city number 's.' 
-Each missile silo is carefully positioned so that the shortest distance from the capital to the silo, 
-using the country's road network, equals exactly 'l.'
+The capital city is denoted as city number 's' .
+Each missile shooter is carefully positioned so that the shortest distance from the capital to the shooter, 
+using the country's road network, equals exactly 'l'.
 
 The infiltrators are focused on uncovering the number of missile shooters in the Colonist's territory to aid in their mission to infiltrate the Iron Dome.
 
