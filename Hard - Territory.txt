@@ -1,0 +1,35 @@
+In "Medina alArbi", entrepreneurs Ali and Iheb manage their trade locations. 
+Each of them oversees specific points for their business activities. Due to persistent conflicts among their subordinates, 
+Ali and Iheb decided to establish a boundary in the form of a circle. The condition is that the trade points of one entrepreneur must be strictly within the circle, 
+while the points of the other must be strictly outside. The decision of which entrepreneur has trade points inside the circle is arbitrary.
+
+Determine whether they can successfully establish the boundary or not.
+
+Input:
+
+The first line contains two integers n and m (1 ≤ n, m ≤ 10000), representing the number of trade points for Ali and Iheb, respectively.
+
+The next n lines contain pairs of space-separated integers Ax, Ay ( - 10^4 ≤ Ax, Ay ≤ 10^4), representing the coordinates of Ali's trade points.
+
+The next m lines contain pairs of space-separated integers Ix, Iy ( - 10^4 ≤ Ix, Iy ≤ 10^4), representing the coordinates of Iheb's trade points.
+
+It is guaranteed that all n + m points are all distinct.
+
+Output:
+
+The only output line should contain either the word "YES" (without quotes) if it is possible to establish such a boundary or the word "NO" if it is not possible.
+
+Example:
+input:
+4 4
+1 0
+0 1
+-1 0
+0 -1
+1 1
+-1 1
+-1 -1
+1 -1
+
+output:
+YES
