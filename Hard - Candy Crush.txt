@@ -10,7 +10,7 @@ You do not necessarily need to complete all the levels.
 
 Input:
 
-The first line contains two integers 'n' and 'w' (1 ≤ n ≤ 3·10^5; 1 ≤ w ≤ 2n) — 
+The first line contains two integers 'n' and 'w' (1 ≤ n ≤ 300000 ; 1 ≤ w ≤ 2n) — 
 representing the number of levels in the first candy box and the number of stars you need to unlock the next candy box.
 
 Each of the following 'n' lines contains two integers 'ai' and 'bi' (1 ≤ ai < bi ≤ 10^9) — the attributes of the 'i-th' level.
