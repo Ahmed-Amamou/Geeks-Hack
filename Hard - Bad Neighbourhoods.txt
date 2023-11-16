@@ -24,3 +24,49 @@ Output:
 
 Print the minimum number of strides Sami must take to reach square (x2, y2) from square (x1, y1), all while avoiding bad neighborhoods. 
 If reaching the destination is impossible, print -1.
+
+input1 :
+
+3 5 2
+3 2 3 4
+.....
+.X..X
+..X..
+
+OUTPUT1:
+5
+
+-----------------------
+
+input2:
+1 6 4
+1 1 1 6
+......
+
+Output 2:
+2
+
+note : 
+in the first example:
+Initially, Sami is at the square (3,2). 
+He can reach the square (3,4) by making five strokes as follows:
+
+From 
+(3,2), go west one square to 
+(3,1).
+
+From 
+(3,1), go north two squares to 
+(1,1).
+
+From 
+(1,1), go east two squares to 
+(1,3).
+
+From 
+(1,3), go east one square to 
+(1,4).
+
+From 
+(1,4), go south two squares to 
+(3,4).
