@@ -19,10 +19,17 @@ Input:
 The first line of the input contains an integer t (1≤t≤100) — the number of test cases.
 
 for each test case line of input consists of five space-seperated integers : l, h, x, y, vx, vy, K (1 ≤ l, h, x, y, K ≤ 1000).
-vx, vy (1 ≤ vx,vy ≤ 1000) 
+vx, vy (1 ≤ vx,vy ≤ 100) 
 The input is such that the ball always starts inside the box(or on one of the edges).
 
 Output:
 
 For each test case print the final coordinates (x_final, y_final) of the ball after K bounces, each separated by a space.
 note: if x_final and y_final are decimals (ex 2.5) return the floored value (in this case 2)
+
+Input: (image)
+4 2 0 1 1 1 4
+
+output:
+3 2
+
