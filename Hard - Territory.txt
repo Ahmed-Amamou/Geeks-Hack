@@ -20,7 +20,7 @@ Output:
 The only output line should contain either the word "YES" (without quotes) if it is possible to establish such a boundary or the word "NO" if it is not possible.
 
 Example:
-input:
+input:(image needed)!!!
 4 4
 1 0
 0 1
