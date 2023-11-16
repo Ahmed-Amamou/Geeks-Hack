@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-(TOP SECRET CONFIDENTIAL STUFF)
-
 #Bouncing Ball(easy)
 
 In the quirky town of Geometria, they loved bouncing balls so much that they turned it into a sport! For this year's "Bouncing Ball Bonanza," they've got a magical bouncing ball inside a box that follows the laws of geometry, performing mind-boggling bounces.
@@ -10,17 +7,6 @@ Professor Polygon, the town's math enthusiast, needs your help. He's tangled up 
 You are given a rectangular box. Inside this box, there is a ball initially located at coordinates (x, y),
 and it is launched with an initial velocity vector (vx, vy).
 
-=======
-#Bouncing Ball(easy)
-
-In the quirky town of Geometria, they loved bouncing balls so much that they turned it into a sport! For this year's "Bouncing Ball Bonanza," they've got a magical bouncing ball inside a box that follows the laws of geometry, performing mind-boggling bounces.
-
-Professor Polygon, the town's math enthusiast, needs your help. He's tangled up in geometry knots and can't calculate where the magical ball will end up after a set number of bounces. It's time for you, the programming geek, to unveil the secrets of this bouncing ball.
-
-You are given a rectangular box. Inside this box, there is a ball initially located at coordinates (x, y),
-and it is launched with an initial velocity vector (vx, vy).
-
->>>>>>> 6c14ba35b359346958d30021e5a571513fc70788
 *The ball obeys the laws of physics and bounces off the walls of the box according to the following rules:
 
 1-When the ball hits a vertical wall of the box, it reflects its horizontal velocity, i.e., it reverses its vx component.
@@ -32,12 +18,11 @@ Your task is to determine the final position of the ball after K bounces!
 Input:
 The first line of the input contains an integer t (1≤t≤100) — the number of test cases.
 
-for each test case line of input consists of five integers : l, h, x, y, vx, vy, K (1 ≤ l, h, x, y, K ≤ 1000). (seperated by spaces)
+for each test case line of input consists of five space-seperated integers : l, h, x, y, vx, vy, K (1 ≤ l, h, x, y, K ≤ 1000).
+vx, vy (1 ≤ vx,vy ≤ 1000) 
 The input is such that the ball always starts inside the box(or on one of the edges).
 
 Output:
-<<<<<<< HEAD
+
 For each test case print the final coordinates (x_final, y_final) of the ball after K bounces, each separated by a space.
-=======
-For each test case print the final coordinates (x_final, y_final) of the ball after K bounces, each separated by a space.
->>>>>>> 6c14ba35b359346958d30021e5a571513fc70788
+note: if x_final and y_final are decimals (ex 2.5) return the floored value (in this case 2)
