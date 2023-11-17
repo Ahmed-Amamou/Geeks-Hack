@@ -1,0 +1,20 @@
+Mahmud is playing Rummy with a hand of 15 cards. Each card can be a value from A to K and belongs to one of the four suits: 
+S (Spades), D (Diamonds), C (Clubs), H (Hearts). 
+To score(tamna3) in this game, Mahmud needs to form sets from these cards. Sets can either be :
+- three or four cards of the same value but with different suits (known as 3 or 4 of a kind)
+or
+-'straight'; which requires at least three cards of the same suit in sequence (e.g., C2 C3 C4).
+
+Your task is to determine if it's possible to achieve a score greater than 72 using these card combinations. 
+If it is possible, provide a "YES" along with the highest achievable score "M". Otherwise, simply print "NO".
+
+Input:
+A list of space-separated strings representing the 15 cards in Mahmud's hand.
+
+Output:
+"YES M" if it's possible to reach a score higher than 72, where "M" represents the highest possible score achievable. If not possible, print "NO".
+
+
+
+input1:
+output1:
