@@ -1,4 +1,4 @@
-
+Time limit= 1 second
 Bachka and Josef are engaged in an intriguing card game. On the table, there are 'n' stack of cards, each stack containing positive integers on the cards.
 
 The game unfolds with Bachka taking the first turn, followed by Josef. In each turn, Bachka selects a card from the top of any non-empty stack, 
