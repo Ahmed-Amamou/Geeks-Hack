@@ -1,0 +1,23 @@
+
+Problem Statement:
+In a celestial multiverse, two distinct worlds are on the brink of collision, causing spatial chaos. 
+You are tasked with a profound challenge: calculating the overlap volume where the two worlds intersect, 
+resembling the intersection of '2 spheres' in our dimensional understanding.
+
+Input:
+The initial line provides coordinates indicating the essence of the first world in the multiverse. 
+World coordinates comprise the center's multidimensional coordinates and its radius, presented as C((x, y, z), R).
+The second line unveils the coordinates of the second celestial world.
+
+Output:
+The output must reveal the volumetric space shared by the intersecting worlds, reflecting the collision volume.
+
+Examples:
+Input:
+50 0 0 60
+-20 0 0 40
+Output:
+59578.061
+
+Note:
+The output should be accurate to three decimal places
