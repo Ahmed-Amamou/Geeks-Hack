@@ -1,0 +1,43 @@
+time limit = 2s
+
+Consider a sequence of integers with a length of 2N, represented as A = (A1, A2, ..., A2N), 
+where each integer from 1 to N appears exactly twice.
+
+Your task is to transform sequence A into a specific pattern known as a "harmonized sequence." 
+To achieve this, you are allowed to perform swaps between adjacent integers in the sequence any number of times.
+
+A harmonized sequence has a distinct property: for every integer i in the range from 1 to N, the sequence has two occurrences of i placed adjacently.
+
+Determine the minimum number of swap operations, K, required to convert sequence A into a harmonized sequence. 
+Once you've found K, generate the lexicographically smallest harmonized sequence possible by performing these operations on sequence A.
+
+Input:
+An integer N representing the length of sequence A.
+A sequence of 2N integers, A1, A2, ..., A2N, where each integer appears exactly twice within the sequence.
+Output:
+Print the sequence representing the lexicographically smallest harmonized sequence achievable by performing the operations K times on the given sequence A. 
+Ensure to separate the integers by spaces.
+
+
+input1:
+3
+3 2 1 2 3 1
+output1:
+2 2 3 3 1 1
+
+
+input2:
+15
+15 12 11 10 5 11 13 2 6 14 3 6 5 14 10 15 1 2 13 9 7 4 9 1 3 8 12 4 8 7
+output2:
+11 11 5 5 6 6 10 10 14 14 15 15 2 2 12 12 13 13 1 1 3 3 9 9 4 4 7 7 8 8
+
+
+note: in sample1, with a sequence like (3, 2, 1, 2, 3, 1), we can perform a series of operations four times:
+
+(3, 2, 1, 2, 3, 1) → (3, 2, 1, 3, 2, 1) → (3, 2, 3, 1, 2, 1) → (3, 3, 2, 1, 2, 1) → (3, 3, 2, 2, 1, 1)
+
+This sequence transformation requires the fewest number of operations to make sequence A a harmonized sequence. 
+Using four operations also allows us to achieve A = (2, 2, 3, 3, 1, 1), which represents the lexicographically smallest sequence .
+So the answer is: '2 2 3 3 1 1'.
+
