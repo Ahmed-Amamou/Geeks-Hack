@@ -3,7 +3,7 @@ AI will overtake the world and no human will be better than an AI at any job,
 what do you think ?
 See, being a Geek I ignored the statement and found something pretty interesting :
 2045's representation in binary has only one zero! 
-2015 -> '11111111101'
+2045_10 -> 11111111101_2
 Your task is to count all the years within a given interval that share this peculiar property: 
 having just one zero in their binary representation.
 
