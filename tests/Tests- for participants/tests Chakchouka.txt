@@ -1,0 +1,77 @@
+Input1:
+
+chak fssfs chak sfdfsdfcho ukafsddssdfkslflzerzerk chouka sd fsdfsf chak  chouka fsfdsfsdfdsc chak n chouka 
+Output1:9
+---------------------------------------------------------------------------
+Input2:
+chakchakchakchakchakchakchakchakchakchakchakchak geeks chouka chakchakchakchakchakchak geeks chouka life is fun to live with chak chak chouq and with
+geeks memechak chak chouka ehh sorry with geeks memebers you gonna live your best hackathon  chakch chak chouka ever  
+Output2:76
+---------------------------------------------------------------------------
+
+Input3:
+life is good but dont forget to cook chakchouka and live with it and eat chak everyday because its the best dish in the world and i recommend it 
+even though its cheap and its ingredients are cheap you can know how delicious and worth it when you eat it 
+i remember when i ate it the first time it was an unknown feeling and i fell in love with that i started to cook it everyday. And 
+everytime a guest come to my house i have that urge to introduce my best beloved dish called chak so its my chance to let people know
+the joy of eating chak  and the feelings that got me first time i ate it (sorry for repition hehe )  but for real i want the world to know that
+and register it as the best dish created in history .maybe i talked too much but this is a problem in geekshack hackathon we hope that you will like it 
+and have a good experience  because what matters in the end is making problems  that satisfy our participants
+with love an ENSIT geeks club member and a chakchouka lover thanks    
+Output3:6
+---------------------------------------------------------------------------
+Input4:
+
+so today chak ensitgeeksclubrestaurant chouka is an univerty club that makes good and delicious strings for you
+just you yeah you chak who chouka are chak reading chouka you are our first client ever be the chak to our chakchouka so 
+you know what we know and what we want you to know yeah i know there are some words that are just for you like chak delicious string for you chouka
+so maybe you invest your time and energy in promoting our product chak for free chouka and be our first chakchouka invester too
+sorry if my english ain't perfect so maybe you can be my teacher too chak     chouka <3  
+
+Output4:41
+---------------------------------------------------------------------------
+
+Input5:
+chakEnsit geeks clubchouka 
+Output5:1
+
+---------------------------------------------------------------------------
+Input6:
+chouka : geekshack is the event you are attending today we hope that you will have fun with us chak
+Output6:0
+
+---------------------------------------------------------------------------
+Input7:
+
+chak is not like chukk because when you say chouka you have a delicious string 
+Output7:1
+---------------------------------------------------------------------------
+ Input8:
+chak ensit geeks club chouka chak ensit geeks club chouka  chak ensit geeks club chouka chak ensit geeks club choukachak ensit geeks club chouka chak ensit geeks club chouka 
+chak ensit geeks club chouka chak ensit geeks club chouka chak ensit geeks club chouka chak ensit geeks club chouka chak ensit geeks club chouka  chak ensit geeks club chouka  
+chak ensit geeks club chouka  chak ensit geeks club chouka  chak ensit geeks club chouka  chak ensit geeks club chouka  chak ensit geeks club chouka  chak ensit geeks club chouka  chak ensit geeks club chouka  
+chak ensit geeks club chouka  chak ensit geeks club chouka  chak ensit geeks club chouka chak ensit geeks club chouka  chak ensit geeks club chouka  chak ensit geeks club chouka  chak ensit geeks club chouka  
+chak ensit geeks club chouka  chak ensit geeks club chouka  chak ensit geeks club chouka   
+Output8:435
+---------------------------------------------------------------------------
+Input9:
+being a participant in chak  geeks hack chouka chak  geeks hack chouka chak  geeks hack chouka chak  geeks hack chouka chak  geeks hack chouka chak  geeks hack chouka chak  geeks hack chouka
+chak  geeks hack chouka chak  geeks hack chouka chak  geeks hack chouka chak  geeks hack chouka chak  geeks hack chouka
+chak  geeks hack choukachak  geeks hack chouka is cool 
+Output9:105
+---------------------------------------------------------------------------
+Input10:
+ 
+ being with the chak with eggs only is better than chak with eggs and potato every chak lover know that chak is the best chak when no
+ potato in chak chouka chouka chouka chouka chouka chouka chouka chouka chouka chouka chouka chouka chouka chouka chouka chouka chouka chouka
+
+ Output10:
+ 108
+---------------------------------------------------------------------------
+ Input11:
+
+ Ensit geeks club making chak in event is  good for chak reputation and it wil help chak becoming a celebrity and yes chak is a dish chouk
+
+ Output11:
+ 0
+---------------------------------------------------------------------------
