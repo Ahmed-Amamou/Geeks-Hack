@@ -31,8 +31,8 @@ output:
 2
 
 note:
-In the first sample Limak's interval contains numbers 5_10 = 101_2, 6_10 = 110_2, 7_10 = 111_2, 8_10 = 1000_2, 9_10 = 1001_2 and 10_10 = 1010_2. 
-Two of them (1012 and 1102) have the described property.
+In the second sample the interval contains numbers 5_10 = 101_2, 6_10 = 110_2, 7_10 = 111_2, 8_10 = 1000_2, 9_10 = 1001_2 and 10_10 = 1010_2. 
+Two of them (101_2 and 110_2) have the described property.
 ----------------------------------------------------------------------------
-hint(WILL NOT BE SHOWN TO PLAYERS!!): get the numbers that are all 1's and substract a power of 2 ; 
+!!!! THIS hint(WILL NOT BE SHOWN TO PLAYERS!!): get the numbers that are all 1's and substract a power of 2 ; 
 getting the all 1s => they all can be written like (2^x)-1
