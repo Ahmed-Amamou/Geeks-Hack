@@ -12,7 +12,7 @@ Determine the minimum number of swap operations, K, required to convert sequence
 Once you've found K, generate the lexicographically smallest harmonized sequence possible by performing these operations on sequence A.
 
 Input:
-An integer N representing the length of sequence A.
+An integer N representing the length of sequence A. (1≤N≤2×10^4)
 A sequence of 2N integers, A1, A2, ..., A2N, where each integer appears exactly twice within the sequence.
 Output:
 Print the sequence representing the lexicographically smallest harmonized sequence achievable by performing the operations K times on the given sequence A. 
