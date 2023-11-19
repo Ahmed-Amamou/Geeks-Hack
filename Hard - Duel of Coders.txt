@@ -1,0 +1,25 @@
+Time limit = 3 seconds
+Two aspiring coders, Alpha and Beta, are commencing their coding journey. 
+Each coder has their unique starting level: Alpha begins at level A and Beta at level B. They engage in learning tasks to enhance their skills, 
+with each task contributing to their level progression.
+
+Alpha levels up after every X_B learning tasks, while Beta's level increases after every X_B learning tasks. 
+Your task is to compute the count of tasks, within the range from 1 to N, where both Alpha and Beta achieve equal skill levels after completing the same number of tasks.
+
+Input:
+The input consists of multiple test cases. Each test case includes five positive integers: N, A, X_A, B, and X_B.
+
+Output:
+For each test case, determine the count of tasks (from 1 to N) where both Alpha and Beta attain equal skill levels after completing the same number of tasks.
+
+input:
+10 5 3 4 2
+output:
+6
+
+
+note: in the example N=10 ,For each n=1,2,…,10, the two's levels after doing n learning tasks are as follows:
+
+A's level: 5,5,6,6,6,7,7,7,8,8.
+B's level: 4,5,5,6,6,7,7,8,8,9.
+So there are six scenarios (n=2,4,5,6,7,9) where the two's levels are equal, so the answer is 6.
