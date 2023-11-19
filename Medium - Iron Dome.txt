@@ -1,14 +1,14 @@
 In the midst of a historic struggle for independence, a group of Palestinian Restistance is determined to weaken the formidable Colonist's Iron Dome defense system. 
-They have managed to obtain vital information about the Iron Dome's missile shooters, 
+They have managed to obtain vital information about the Iron Dome's firing units (Missile shooters), 
 and their mission is to infiltrate the defense system to disable it.
 
 the Colonist state has 'n' cities, numbered with integers from 1 to n.
-According to the documents in their possession, the Iron Dome's missile shooters are strategically located at a specific distance 'l' from the capital city. 
+According to the documents in their possession, the Iron Dome's firing units are strategically located at a specific distance 'l' from the capital city. 
 The capital city is denoted as city number 's' .
-Each missile shooter is carefully positioned so that the shortest distance from the capital to the shooter, 
+Each firing unit is carefully positioned so that the shortest distance from the capital to the unit, 
 using the country's road network, equals exactly 'l'.
 
-The Resistance are focused on uncovering the number of missile shooters in the Colonist's territory to aid in their mission to Destroy the Iron Dome and win the war!
+The Resistance are focused on uncovering the number of firing units in the Colonist's territory to aid in their mission to Destroy the Iron Dome and win the war!
 
 Input:
 
@@ -16,7 +16,7 @@ The first line contains three integers: n, m, and s (2 ≤ n ≤ 10^5, �
 
 The following 'm' lines describe the roads in the Colonist's territory. Each road is represented by three integers: v_i, u_i, w_i (1 ≤ v_i, u_i ≤ n, v_i ≠ u_i, 1 ≤ w_i ≤ 1000), where v_i and u_i are city numbers connected by the road, and w_i is the length of the road between them.
 
-The last input line contains an integer 'l' (0 ≤ l ≤ 10^9) — representing the distance from the capital to the missile shooters.
+The last input line contains an integer 'l' (0 ≤ l ≤ 10^9) — representing the distance from the capital to the firing units.
 
 It is guaranteed that:
 
@@ -26,7 +26,7 @@ It is guaranteed that:
 
 Output:
 
-Print a single integer — the number of Iron Dome missile shooters located in the Colonist's territory.
+Print a single integer — the number of Iron Dome firing units located in the Colonist's territory.
 
 EXAMPLES:
 1/
