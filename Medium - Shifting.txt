@@ -1,12 +1,27 @@
-problem where , you're given a matrix of ones and zeros, you have q operations to make ,
-operation:
-- shiftRow
-or
-- ShiftCol 
-
-expected output : most maximum number of squares. 
-a square in a matrix is 4 ones that form a square basically,
+You are given a square matrix filled with ones and zeros. With a limited number of operations available—shifting rows (ShiftRow) or shifting columns (ShiftCol)—your goal is to optimize the arrangement of ones. The objective is to maximize the count of squares formed by four ones arranged in a perfect square shape.
 
 
 
---problem to be continued
+Input:
+The first line of input consists of the matrix's order 'n' and the count of allowed operations 'q'.
+the n lines of input that follow describe each row of the matrix.
+
+Output:
+Determine the maximum number of squares that can be formed within the square matrix after executing the specified operations.
+
+Constraints:
+1 ≤ n ≤ 100, where 'n' represents the order of the square matrix.
+0 ≤ q ≤ 100, the count of allowed operations.
+
+Note:
+A square in the matrix is defined as four ones forming a perfect square shape.
+
+Input:(image)
+5 // Order of the square matrix
+3 // Allowed operations
+1 0 0 1 1
+1 1 1 0 1
+1 1 1 1 0
+0 0 1 0 1
+Output:
+6 // Maximum number of squares achievable after executing operations
