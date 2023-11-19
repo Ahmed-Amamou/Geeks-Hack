@@ -1,0 +1,35 @@
+Problem Statement:
+Levi is facing off against a group of Titans. Each Titan has its health denoted by H_i.
+
+In this battle, Levi has two combat options:
+
+Attack: Levi selects a Titan, decreasing its health by 1.
+Special Move: Levi selects a Titan, instantly reducing its health to 0.
+Levi's triumph comes when all the Titans' healths reach 0 or below.
+
+Calculate the minimum number of times Levi needs to use regular attacks (excluding Special Moves) 
+to secure victory when he can utilize the Special Move at most K times.
+
+Input :
+The first line of input will have N(1<=N<=10000),K(0<K<10000) the number of titans
+The second line will represent the healths of each titan. H_1,H_2,…,H_n (1≤H_i≤10^10)
+
+
+Output:
+Display the minimum number of times Levi must perform regular attacks (excluding Special Moves) before achieving victory.
+
+input1:
+3 1
+4 1 5
+output1:
+5
+
+input2:
+7 8
+7 2 3 2 5 8 4 1
+output2:
+0
+
+
+note:in the first example, By using Special Move on the third monster, and doing Attack four times on the first monster and once on the second monster, 
+Levi can win with five Attacks.
