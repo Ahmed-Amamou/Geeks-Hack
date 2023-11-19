@@ -8,7 +8,7 @@ The capital city is denoted as city number 's' .
 Each missile shooter is carefully positioned so that the shortest distance from the capital to the shooter, 
 using the country's road network, equals exactly 'l'.
 
-The infiltrators are focused on uncovering the number of missile shooters in the Colonist's territory to aid in their mission to Destroy the Iron Dome and win the war!
+The Resistance are focused on uncovering the number of missile shooters in the Colonist's territory to aid in their mission to Destroy the Iron Dome and win the war!
 
 Input:
 
