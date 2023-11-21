@@ -9,7 +9,8 @@ The positions of the three pieces are denoted as follows:
 The black rook's position is given by 'Rc', where 'R' represents the rook and 'c' is a valid square (e.g., 'Rd5' signifies the rook is at square d5).
 The black king's position is given by 'Kc', where 'K' represents the king and 'c' is a valid square (e.g., 'Kf3' signifies the king is at square f3).
 The white king's position is given by 'Wc', where 'W' represents the white king and 'c' is a valid square (e.g., 'Wa7' signifies the white king is at square a7).
-Your task is to determine whether the white king is under attack by the black rook. Specifically, you need to check if the rook can capture the white king on its next move. If the white king is under attack, output "YES"; otherwise, output "NO."
+Your task is to determine whether the white king is under attack by the black rook. Specifically, you need to check if the rook can capture the white king on its next move.
+
 
 Input:
 
