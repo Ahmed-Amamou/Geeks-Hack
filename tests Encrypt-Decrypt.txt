@@ -1,0 +1,62 @@
+Input1:
+10
+D egekstisne
+output1: 
+ensitgeeks
+---------------------------------------------
+Input2:
+6
+E hcyrkd
+output2:
+krdych
+---------------------------------------------
+Input3:
+4
+D jfyy
+output3: 
+yyjf
+---------------------------------------------
+Input4:
+1
+D z
+output4:
+z
+
+---------------------------------------------
+Input5:
+60
+E jqprcbfgsxwgjhmkehcoiwwltuxjzokamzpalobnfespcvmoecqigyuutueu
+output5: 
+fnebsopcvmlaoecpzmakqigyuutueuozjxutlwwiochekmhjgwxsgfbcrpqj
+---------------------------------------------
+Input6:
+97
+D qnqrmdhmbubaijtwsecbidqouhlecladwgwcuxbigckrfzasnbfbslukoayhcgquuacygakhxoubibxtqkpyyhzjipylujgrc
+output6:
+crgjulypijzhyypkqtxbibuoxhkagycauuqgchyaokulsbfbnsazfrkcgibxucwgwdalcelhuoqdibceswtjiabubmhdmrqnq
+---------------------------------------------
+Input7:
+90
+D mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+output7: 
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+---------------------------------------------
+Input8:
+90
+E cccucccccccnccccccxcccccccccccccccccccccchccccccccccccccccccccccchccccccccccwcccccccccgccc
+output8:
+cccchccccccccccccccccccccccccccwcccccccccgcccccchccccccccccccccccccccccxccccccncccccccuccc
+---------------------------------------------
+Input9:
+100
+D djjjjjjjjjjgjjjjjjjjjjjjjjsvjjjjjjjjjjmjjjjjjjjjjjjjajjjjjjajjjjjjrjjjjjjjjjjjjrjjtjjjjjjjjjjjjjojjj
+output9: 
+jjjojjjjjjjjjjjjjtjjrjjjjjjjjjjjjrjjjjjjajjjjjjajjjjjjjjjjjjjjdjjjgjjjjjjjjjsvjjjjjjjjjjmjjjjjjjjjjj
+---------------------------------------------
+Input10:
+60
+D wwwwwxwwwwwwfhwwhwwwwwwawwwwwwwwwwwwwnwwwwwwwwwwwwwwwwwwwwww
+output10:
+wwwwwwwwwwwwwwwwwwwwwwnwwwwwwwwwwhwwwxwwwwwwwwwfhwwwwawwwwww
+---------------------------------------------
+

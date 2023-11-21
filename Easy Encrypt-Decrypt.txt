@@ -1,0 +1,34 @@
+Time limit = 1 second
+A string s of size n can be modified using the following method:
+
+- Traverse all divisors of n in a descending sequence (from n to 1).
+- For each divisor d, reverse the substring s[1…d] (from position 1 to d).
+
+Given a string A and a directive 'E' (for encoding) or 'D' (for decoding):
+
+When 'E' is provided, encode the string A using the described approach.
+When 'D' is given, decode the string A using the inverse operation.
+Input Format:
+
+First line: n (the length of string A) (1 ≤ n ≤ 10^4)
+Second line: Command ('E' or 'D') followed by string A (lower case latin letters)
+Output:
+
+Display the resulting encrypted or decrypted string.
+
+Input1:
+10
+D egekstisne
+output1: 
+ensitgeeks
+
+Input2:
+6
+E hcyrkd
+output2:
+krdych
+
+
+note: in example 1:
+	ensitgeeks -> skeegtisne -> geekstisne ->egekstisne ->egekstisne 
+	(no modification in last operation obviously cause d=1)
