@@ -1,0 +1,34 @@
+Time Limit=2 seconds!
+
+Given a string s containing only characters 't' and 'v', 
+perform the following operations any number of times in any order:
+
+Replace any occurrence of 'tt' as a substring with 'v'.
+Replace any occurrence of 'vv' as a substring with 't'.
+Determine the number of possible strings that can be obtained by executing these operations on s. Find the count modulo 1000000007.
+
+Input:
+the string s (1 ≤ |s| ≤ 10^5)
+Output:
+the number of strings 's' that can be obtained, modulo 1000000007.
+
+
+Input1:
+tttt
+Output1:
+6
+
+Input2:
+tvtvtvtv
+Output2:
+1
+
+
+note: In example 1, only 6 strings can be obtained:
+-tttt
+-ttv
+-tvt
+-vtt
+-vv
+-t
+In example 2, we can't perform any operation.
