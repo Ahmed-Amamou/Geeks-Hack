@@ -1,7 +1,7 @@
 Chakckouka Problem ! 
 Ahmed is a fan of a traditional dish called "Chakchouka," and he has a peculiar way of identifying it in a string. 
 According to his definition, a string is considered delicious if it starts with "chak" and ends with "chouka".
-Additionally, two substrings are considered different if they appear at different positions in the text.
+Moreover, two substrings are deemed distinct if they are situated at different positions within the text.
 
 Given a string 's', your task is to count and print the number of delicious substrings in the given string.
 
