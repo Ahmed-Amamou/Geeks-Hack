@@ -25,10 +25,10 @@ Output2:
 
 
 note: In example 1, only 6 strings can be obtained:
--tttt
--ttv
--tvt
--vtt
--vv
--t
+- tttt
+- ttv
+- tvt
+- vtt
+- vv
+- t
 In example 2, we can't perform any operation.
