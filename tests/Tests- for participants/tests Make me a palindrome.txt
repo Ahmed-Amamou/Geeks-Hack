@@ -1,0 +1,50 @@
+input1 : 
+aab
+output1 :  
+1
+---------------------------------------------
+input2 : 
+mbappe
+output2 :
+-1 
+---------------------------------------------
+input3 : 
+adaadppa
+output3 :
+4 
+---------------------------------------------
+input4 : 
+kkddaazzeerrttyyuuiiooppqqssddffgghhjjkkllmmwwxxccvvbbnn
+output4 :
+632 
+---------------------------------------------
+input5 : 
+aazzeerrttyyuuiiooppqqssddffgghhjjkkllmmwwxxccvvbbnn
+output5 :
+650
+---------------------------------------------
+input6 : 
+aabaa
+output6 :
+0 
+---------------------------------------------
+input7 : 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxezpzlemonssqueezyxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+output7 :
+-1 
+---------------------------------------------
+input8 : 
+wywywywywywyywwuwuwuwuwuwuwuuwuwuwuwuwuwu
+output8 :
+148 
+---------------------------------------------
+input9 : 
+lsvtegecdszfjyqwfiyyxwcztyqsehfjxicnsdllesaftstkyumygfbrrmedvglqnbesgokbznodlajkynljkezsktojcdfuxgkkywbuwoerbmxqzrmbnrxamdvvfmutkvbcpquideqbfwznpymkepaemrnlsotyqerksnegutldbxjqgaorknstcvbppdacqsbgcxjwtaivfrnbdwejogcejaxwwgmvhqozfcsiwcuvllwvvpuxawbqaqezxkksvfheuchlkoxozgnfvucsewzpcwzgmwjdlszcbfxttfvuyrzqtqfbjvkdjrrgsqhfnertcxesxcljdcfqqqroorurwpdtbedoppcoarbkmtcxclnarwrdpkvildeqwvxnxvsjgvnydusnmajbirvsylizonsrtyzswdynbxkqfahrcnzglsfnvmefocnzpyrdmbwnxqicuoiyzerfhgyzxzndwgsnufcqcfdsvrwmxxacdwcwallneqrzjhbrgcdmdlngvquppbnclicypolyiqhfknqqrqgdbvtunramidiexyktvycbhqnggndrjsvgmymwwvndtdcohpnrsekyxyyzzhzoprdmaontoyhomwafxcummxynzexbqvcnlguevtfgodkcybxrsrimyjmxbmdmfyrdxqxwfpgtalkibrpessfzejxnabfzqipttddnvaveqqocymydgholnhocdonlsuszxefucljpxaqyoifperiqnwznqxruiemzemoulwnqcesknlvshvfhbwhmzdxfnjamiffnfnpxqlnkvntapmasduslinrpbydketxlxcdwbjjcpmimrnjawtdrnfhhdasjbkwxbyfihhswksqlanfgspxdhjitbibpicyaywreodecxxpdedqyzohagcrhqyaiupcmiodscoktwcaexhqowkbfgljuykgrdzmgejdbynrugpkgufztnafwituwdatufvvnpqszxryj
+output9 :
+-1 
+---------------------------------------------
+input10 : 
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz
+output10 :
+16250 
+---------------------------------------------
