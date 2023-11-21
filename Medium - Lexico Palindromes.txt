@@ -1,7 +1,7 @@
 Problem Description  (time limit per test 2 seconds
                       memory limit per test 256 megabytes)
 
-A palindromic string is a word that reads the same forwards and backwards. For instance, "lol", "oo", "r" ,and even the enigmatically long "ahmedamamouuomamademha" are all palindromes.
+A palindromic string is a word that reads the same forwards and backwards. For instance, "lol", "oo", "r" ,and even the enigmatically long "cristianoronaldoodlanoronaitsirc" are all palindromes.
 However, strings like "app" and "xy" fall short of this definition.
 
 You are presented with a string "s" consisting of lowercase English letters. 
@@ -11,9 +11,9 @@ and this rearrangement does not count as an operation.
 
 Your mission is two-fold:
 
-Minimize Changes: Your first objective is to transform "s" into a palindrome while making as few changes as possible.
+- Minimize Changes: Your first objective is to transform "s" into a palindrome while making as few changes as possible.
 
-Alphabetical Minimization: In cases where multiple palindrome options require the same number of changes, 
+- Alphabetical Minimization: In cases where multiple palindrome options require the same number of changes, 
 you should opt for the alphabetically (lexicographically) smallest palindrome.
 
 Can you tackle this challenge and produce an alphabetically minimal palindrome while conserving changes?
@@ -25,4 +25,14 @@ The input consists of a single line containing the string "s" (1 ≤ |s| ≤ 2·
 Output
 
 Output the alphabetically smallest palindrome that can be obtained with the minimal number of changes.
+
+input1:
+aaqz
+output1:
+aqqa
+
+input2:
+aalcz
+output:
+alcla
 
