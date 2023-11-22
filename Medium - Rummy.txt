@@ -5,7 +5,7 @@ To score(tamna3) in this game, Mahmud needs to form sets from these cards. Sets 
 or
 -'straight'; which requires at least three cards of the same suit in sequence (e.g., C2 C3 C4).
 
-Your task is to determine if it's possible to achieve a score greater than 72 using these card combinations. 
+Your task is to determine if it's possible to achieve a score >= 72, using these card combinations. 
 If it is possible, provide a "YES" along with the highest achievable score "M". Otherwise, simply print "NO".
 
 Input:
@@ -18,3 +18,6 @@ Output:
 
 input1:
 output1:
+
+
+Notes : Every Card can only be used in a single set.
