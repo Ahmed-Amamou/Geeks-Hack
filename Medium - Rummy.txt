@@ -1,6 +1,7 @@
-Mahmud is playing Rummy with a hand of 15 cards. Each card can be a value from A to K and belongs to one of the four suits: 
+Mahmud is playing Rummy with a hand of 14 cards. 
+Each card can be a value from A to K and belongs to one of the four suits: 
 S (Spades), D (Diamonds), C (Clubs), H (Hearts). 
-To score(tamna3) in this game, Mahmud needs to form sets from these cards. Sets can either be :
+To score(tamna3) in this game, Hamoud needs to form sets from these cards. Sets can either be :
 - three or four cards of the same value but with different suits (known as 3 or 4 of a kind)
 or
 -'straight'; which requires at least three cards of the same suit in sequence (e.g., C2 C3 C4).
@@ -12,7 +13,8 @@ Input:
 A list of space-separated strings representing the 15 cards in Mahmud's hand.
 
 Output:
-"YES M" if it's possible to reach a score higher than 72, where "M" represents the highest possible score achievable. If not possible, print "NO".
+"YES M" if it's possible to reach a score higher than 72, where "M" represents the highest possible score achievable. 
+If not possible, print "NO".
 
 
 
@@ -20,4 +22,7 @@ input1:
 output1:
 
 
-Notes : Every Card can only be used in a single set.
+Notes : 
+- You can't use a card twice in two different sets
+- A counts as 10 if used in a set like (SJ,SQ,SK,SA) 
+- A counts as 1 if used in a set like (SA,S2,S3,S4)

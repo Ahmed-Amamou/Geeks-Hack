@@ -1,0 +1,50 @@
+input1 : 
+H7 D7 H7 H8 D8 D9 S7 H9 C7 H10 C9 C10 CJ HJ
+output1 :
+YES 118 
+---------------------------------------------
+input2 : 
+S3 SK D10 S4 HK DJ S5 CQ DQ HA D6 DK CA DA
+output2 :
+NO 
+---------------------------------------------
+input3 : 
+S9 C6 S3 H10 H6 D3 H2 H6 C3 D2 CA CJ D5 S5
+output3 :
+NO 
+---------------------------------------------
+input4 : 
+SJ D5 H6 H7 DJ S5 CJ CA S3 D3 C3 S9 D9 H8
+output4 :
+NO 
+---------------------------------------------
+input5 : 
+DA DA CA H3 DK DJ H8 DQ S8 C8 D8 SA HA SK
+output5 :
+YES 112 
+---------------------------------------------
+input6 : 
+DJ S10 C6 HA DQ D10 C7 S4 C10 C8 S2 DK H10 C9
+output6 :
+YES 100 
+---------------------------------------------
+input7 : 
+S7 S5 H10 D6 H7 H5 C10 HJ C7 C5 D10 DQ D5 CA
+output7 :
+NO 
+---------------------------------------------
+input8 : 
+S2 S3 D6 S6 S4 HJ C6 C4 H10 H9 D4 S4 H4 H8
+output8 :
+YES 98 
+---------------------------------------------
+input9 : 
+CA C5 H7 S10 C2 C6 H8 C3 C7 H9 C4 C8 H8 S8
+output9 : 
+YES 76
+---------------------------------------------
+input10 : 
+CA H7 C6 C2 H8 DJ C3 H9 SK C4 H6 S5 D6 S6
+output10 :
+NO 
+---------------------------------------------
