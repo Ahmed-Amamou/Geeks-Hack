@@ -16,7 +16,8 @@ Output3:
 ---------------------------------------------------------------------------
 Input4:
 so today chak ensitgeeksclubrestaurant chouka is an univerty club that makes good and delicious strings for you just you yeah you chak who chouka are chak reading chouka you are our first client ever be the chak to our chakchouka so  you know what we know and what we want you to know yeah i know there are some words that are just for you like chak delicious string for you chouka so maybe you invest your time and energy in promoting our product chak for free chouka and be our first chakchouka invester too sorry if my english ain't perfect so maybe you can be my teacher too chak  chouka <3  
-Output4:41
+Output4:
+41
 ---------------------------------------------------------------------------
 Input5:
 chakEnsit geeks clubchouka 

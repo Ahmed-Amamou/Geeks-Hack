@@ -11,17 +11,17 @@ Determine the maximum number of squares that can be formed within the square mat
 
 Constraints:
 1 ≤ n ≤ 100, where 'n' represents the order of the square matrix.
-0 ≤ q ≤ 100, the count of allowed operations.
+0 ≤ q ≤ 10, the count of allowed operations.
 
 Note:
 A square in the matrix is defined as four ones forming a perfect square shape.
 
 Input:(image)
-5 // Order of the square matrix
+4 // Order of the square matrix
 3 // Allowed operations
-1 0 0 1 1
-1 1 1 0 1
-1 1 1 1 0
-0 0 1 0 1
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+1 0 0 1 
 Output:
-6 // Maximum number of squares achievable after executing operations
+1 // Maximum number of squares achievable after executing operations

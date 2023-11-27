@@ -19,32 +19,32 @@ output4 :
 NO 
 ---------------------------------------------
 input5 : 
-DA DA CA H3 DK DJ H8 DQ S8 C8 D8 SA HA SK
+DA DA CA H3 DK DJ H8 DQ S8 C8 D8 SA HA H2
 output5 :
-YES 112 
+YES 108
 ---------------------------------------------
 input6 : 
-DJ S10 C6 HA DQ D10 C7 S4 C10 C8 S2 DK H10 C9
+DJ S10 C6 S3 DQ D10 C7 S4 C10 C8 S2 DK H10 C9
 output6 :
-YES 100 
+YES 109 
 ---------------------------------------------
 input7 : 
 S7 S5 H10 D6 H7 H5 C10 HJ C7 C5 D10 DQ D5 CA
-output7 :
+output7:
 NO 
 ---------------------------------------------
 input8 : 
 S2 S3 D6 S6 S4 HJ C6 C4 H10 H9 D4 S4 H4 H8
 output8 :
-YES 98 
+YES 80
 ---------------------------------------------
 input9 : 
-CA C5 H7 S10 C2 C6 H8 C3 C7 H9 C4 C8 H8 S8
+CA C5 H7 C5 C2 C6 H8 C3 C7 H9 C4 C8 H8 S8
 output9 : 
-YES 76
+YES 81
 ---------------------------------------------
 input10 : 
-CA H7 C6 C2 H8 DJ C3 H9 SK C4 H6 S5 D6 S6
+CA H7 C6 C2 H8 C2 C3 H9 S2 C4 H6 H2 D6 S6
 output10 :
 NO 
 ---------------------------------------------
