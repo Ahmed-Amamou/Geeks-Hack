@@ -17,11 +17,5 @@ Note:
 A square in the matrix is defined as four ones forming a perfect square shape.
 
 Input:(image)
-4 // Order of the square matrix
-3 // Allowed operations
-0 1 0 0 
-0 0 1 0 
-0 0 0 1 
-1 0 0 1 
-Output:
-1 // Maximum number of squares achievable after executing operations
+(Problem was not Ready )
+to generate good tests I need a working solution lol  
