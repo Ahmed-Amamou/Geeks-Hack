@@ -1,0 +1,42 @@
+Aycha has a group of painters specialized in house painting.
+She responded to a call for tenders to paint numerous rental houses and hotels belonging to a major businessman in the Maldives.
+After months of work, Aycha's group noticed that the project was running out of time and that there were still many large houses to be painted. 
+In order not to lose too much time, the group asked you as a specialist to help them predict whether they would be able to finish all the houses before the deadline, by giving them the minimum time needed to paint each house.
+We should mention here that the painting group will be divided into several sub-teams according to the number of layers they will paint.
+
+Ps: layer (lay)+1 must be painted after layer (lay) has been completed.
+
+Input
+
+*The first line provides an integer n (2≤ n ≤ 100) - represents the number of layers to be painted for each room
+*Each of the following n lines is referring to a layer and will provide a sequence of integers where each integer represents the number of hours the team must take to finish that layer for a room specific room (the number of hours should be between 1 and 10 hours).
+
+-The number of rooms should be extracted from the integer sequences !!!!!
+
+Output
+ -Print an integer The minimum number of hours Aycha's team must take to finish painting a house.
+
+Constraints
+ Time Limit  2s
+
+
+input1:
+2
+3 4 7 2 3 5
+2 3 5 7 4 2
+output1:
+26
+
+input2:
+2
+1 2 3
+1 1 4
+output2:
+9
+
+input3:
+2
+1 2
+2 1
+output3:
+4
